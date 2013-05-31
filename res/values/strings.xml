@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TakePicActivity!</string>
+    <string name="app_name">案例-TouchTake</string>
+    <string name="app_help">软件说明</string>
+    <string name="str_btn_returnroot">根目录</string>
+    <string name="str_btn_returnback">上级目录</string>
+    <string name="str_btn_help">软件说明</string>
+	<string name="str_btn_createdir">新建文件夹</string>
+	<string name="str_text_explorertipadd">长按文件夹作为相册</string>
+	<string name="str_text_explorertipempty">此目录不包含文件夹</string>
+	<string name="str_toast_sdcardunpresent">存储卡尚不可用！</string>
+	
+	<string name="str_toast_error">抱歉，遇到问题，请再次尝试添加！</string>
+	<string name="str_toast_error_null">抱歉，未能锁定相册，请再添加一个新的小部件！</string>
+	<string name="str_toast_error_file">抱歉，无法保存照片，请重新选择一个文件夹！</string>
+	
+	<string name="toast_str_cannotmv">对不起，由于您拍照操作太快，刚拍过的照片被留滞在系统默认相册中了。</string>
+	<string name="toast_str_cannotmvinservice">对不起，刚拍过的照片被留滞在系统默认相册中了。</string>
+	
+	<string name="str_chose_email_app">请选择邮件客户端软件：</string>
+	
+	<string name="str_dlg_edithint_inputfilename">请输入文件名</string>
+	<string name="str_dlg_check_asalbum">作为相册</string>
+	<string name="str_dlg_btn_create">创建</string>
+	<string name="str_dlg_btn_cancle">取消</string>
+	<string name="str_dlg_toast_createfilefail">文件创建失败！</string>
+	<string name="str_dlg_toast_createfilesuccess">文件创建成功！</string>
+	<string name="str_dlg_help">\n\t\t由于手机自带的照相机所拍的照片全都放到一个目录中，
+	                                                                                                 不免使相册显得混乱，然而我们又不想放弃系统自带的照相机，本程序可以方便您进行拍照管理。
+	                                    \n\n\t使用前您需要手动添加桌面小部件，并选择该小部件所对应的
+										文件夹，那么点击桌面的小部件时即可打开
+										系统自带的照相机，每拍一张，点击完成后所拍照片就会保存在该文件夹中了。
+										\n\n\t您可以添加任意多个小部件，当点击小部件失灵时，您只需删除该部件，并重新添加一个即可！</string>
+</resources>
